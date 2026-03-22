@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PHON NAPHA</h1>
-<h3 align="center">A passionate Mechanical Engineering which i am a very curiosity person and like to do research on many topics.</h3>
+<h3 align="center">A passionate Mechanical Engineering, i am a very curiosity person and like to do research on many topics.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nanapha-phonn&label=Profile%20views&color=0e75b6&style=flat" alt="nanapha-phonn" /> </p>
 
