@@ -4,9 +4,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nanapha-phonn&label=Profile%20views&color=0e75b6&style=flat" alt="nanapha-phonn" /> </p>
 
 - 🔭 I’m currently working on **designing arm robot gripper and little bit of robotics**
-
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXo0ZWVwaTlqaGYzaTM1bHl4d2d3ZWo3bGJ5ZG9iZHdhdnhyZ3FmbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4IKybi5zUz6nRGj19u/giphy.gif" width="450" alt="Herta GIF" />
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  Email: napha4657@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
