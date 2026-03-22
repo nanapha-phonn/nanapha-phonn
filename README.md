@@ -1,93 +1,19 @@
-# 👋 Hi, I'm Phon Na Pha
+<h1 align="center">Hi 👋, I'm PHON NAPHA</h1>
+<h3 align="center">A passionate Mechanical Engineering which i am a very curiosity person and like to do research on many topics.</h3>
 
-🚀 Mechanical Engineer | Future Mechatronics & Robotics Engineer  
-⚙️ Passionate about Automation, Control Systems, AI, and Smart Machines  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nanapha-phonn&label=Profile%20views&color=0e75b6&style=flat" alt="nanapha-phonn" /> </p>
 
----
+- 🔭 I’m currently working on **designing arm robot gripper and little bit of robotics**
 
-## 🧠 About Me
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-I am a Mechanical Engineer with a strong interest in **mechatronics, robotics, and intelligent systems**.  
-I enjoy combining **mechanical design + electronics + software** to build real-world engineering solutions.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-Currently, I am focused on:
-- 🤖 Robotics (mobile robots & path planning)
-- 🧠 AI & Computer Vision (OpenCV, deep learning basics)
-- ⚡ Control Systems (MATLAB & simulations)
-- 🔌 Embedded Systems (ESP32, sensors, actuators)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nanapha-phonn&show_icons=true&locale=en&layout=compact" alt="nanapha-phonn" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nanapha-phonn&show_icons=true&locale=en" alt="nanapha-phonn" /></p>
 
-## 🛠️ Skills & Tools
-
-### 🔧 Mechanical & Engineering
-- CAD Design (SolidWorks)
-- Heat Transfer & Thermodynamics
-- Fluid Mechanics
-- Machine Maintenance & Troubleshooting
-
-### 💻 Programming & Software
-- Python (OpenCV, robotics projects)
-- MATLAB (simulation, numerical methods)
-- C/C++ (embedded systems)
-- Git & GitHub
-
-### ⚡ Hardware & Robotics
-- Arduino / ESP32
-- Sensors & Actuators
-- Motor Control
-- Basic Electronics
-
----
-
-## 🚀 Projects
-
-### 🤖 Robot Path Planner
-- Implemented A* algorithm for grid-based navigation
-- Built visualization using Python
-- Future goal: Deploy on ROS2 mobile robot
-
-### 📷 Face Detection System
-- Real-time webcam face detection using OpenCV
-- Exploring AI-based improvements
-
-### ⚙️ Engineering Simulations
-- MATLAB projects:
-  - Root finding methods (Bisection, False Position)
-  - Open channel flow analysis
-  - Heat transfer experiments
-
----
-
-## 🎯 Current Goals
-
-- 🔹 Build a **fully autonomous mobile robot (ROS2)**
-- 🔹 Master **MATLAB for control systems**
-- 🔹 Learn **AI for robotics applications**
-- 🔹 Develop **real-world automation projects**
-
----
-
-## 📈 Learning Roadmap
-
-- Robotics & Control Systems  
-- Embedded Systems & IoT  
-- AI + Computer Vision  
-- Industrial Automation (PLC)  
-
----
-
-## 📫 Connect With Me
-
-- 💼 Open to collaboration on robotics & engineering projects
-- 🌱 Always learning, building, and improving
-
----
-
-## ⚡ Fun Fact
-
-I enjoy turning **engineering theory into real working systems** — from equations to moving robots 🚀
-
----
-
-⭐ *“Build. Test. Improve. Repeat.”*
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nanapha-phonn&" alt="nanapha-phonn" /></p>
