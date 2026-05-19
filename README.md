@@ -1,46 +1,57 @@
 <h1 align="center">Hi 👋, I'm PHON NAPHA</h1>
 
-<h3 align="center">Undergraduate Mechanical Engineering student passionate about Robotics, AI/ML, and CAD Design naturally curious and always researching.</h3>
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Mechanical+Engineering+undergraduate;Robotics+%26+automation+enthusiast;AI+%2F+ML+learner+for+robotics;CAD+%26+simulation+explorer;Curious+researcher+at+heart" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nanapha-phonn&label=Profile%20views&color=0e75b6&style=flat" alt="nanapha-phonn" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXo0ZWVwaTlqaGYzaTM1bHl4d2d3ZWo3bGJ5ZG9iZHdhdnhyZ3FmbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4IKybi5zUz6nRGj19u/giphy.gif" width="420" alt="Animation" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXo0ZWVwaTlqaGYzaTM1bHl4d2d3ZWo3bGJ5ZG9iZHdhdnhyZ3FmbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4IKybi5zUz6nRGj19u/giphy.gif" width="400" alt="Animation" />
 </p>
 
 ---
 
-## 👤 About Me
+## 👤 About me
 
-- 🎓 **Undergraduate student** in Mechanical Engineering
-- 🔭 Currently working on **designing a robotic arm gripper** and exploring robotics systems
-- 🤖 Learning **AI / ML for robotics**: applying computer vision and deep learning to physical systems
-- 📐 Improving skills in **CAD design & simulation** for mechanical components
-- ⚡ Building hands-on **robotics projects** to bridge software and hardware
-- 🔬 Naturally curious: enjoys deep-diving into research across engineering, tech, and science
-
----
-
-## 🚀 Current Focus
-
-| Area | Details |
-|------|---------|
-| 🦾 Main Project | Robotic arm gripper design |
-| 🧠 Learning | AI / ML applied to robotics |
-| 📐 Improving | CAD & simulation skills |
-| 🤝 Status | Open to collaborate |
+- 🎓 Undergraduate student in **Mechanical Engineering**
+- 🔭 Currently building a **robotic arm gripper** — designing, prototyping, and testing
+- 🤖 Learning **AI / ML for robotics** — applying computer vision and deep learning to real hardware
+- 📐 Improving in **CAD design & simulation** for mechanical components
+- 🧪 Building hands-on **robotics projects** that bridge software and hardware
+- 💡 Curious by nature — loves researching across engineering, physics, and emerging tech
 
 ---
 
-## 🌐 Areas of Interest
+## 🚀 Featured projects
 
-`Robotics & Automation` · `Artificial Intelligence` · `Mechanical Design (CAD)` · `Computer Vision` · `Deep Learning`
+| Project | Description | Stack | Status |
+|---------|-------------|-------|--------|
+| 🦾 Robotic arm gripper | Designing and prototyping a mechanical gripper — from CAD to Arduino control | Arduino · C++ · CAD | 🔧 WIP |
+| 👁️ Computer vision project | Exploring OpenCV & PyTorch for object detection in robotic systems | Python · OpenCV · PyTorch | 🔬 Exploring |
+| ⚡ Arduino automation | Microcontroller-based automation — sensors, actuators, embedded control | Arduino · C++ | 📌 Placeholder |
 
 ---
 
-## 🛠️ Languages & Tools
+## 📊 Skill levels
+
+```
+Python              ████████████░░░░░░░░  65%   Intermediate
+C++ / Arduino       ████████████░░░░░░░░  60%   Intermediate
+MATLAB              ███████████░░░░░░░░░  55%   Intermediate
+CAD design          ██████████░░░░░░░░░░  50%   Improving
+OpenCV / CV         ████████░░░░░░░░░░░░  40%   Learning
+PyTorch / TF        ███████░░░░░░░░░░░░░  35%   Learning
+Git / Linux         ████████████░░░░░░░░  60%   Comfortable
+```
+
+---
+
+## 🛠️ Languages & tools
 
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>&nbsp;
@@ -56,7 +67,15 @@
 
 ---
 
-## 📊 GitHub Stats
+## 💬 Engineering motto
+
+> **"If it can be imagined, it can be engineered."**
+>
+> Curiosity is my best tool. I believe the best engineers are the ones who never stop asking *why* and *how*.
+
+---
+
+## 📊 GitHub stats
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nanapha-phonn&show_icons=true&locale=en&layout=compact" alt="nanapha-phonn" />
@@ -68,6 +87,7 @@
 
 ---
 
-## 📬 Connect with Me
+## 📬 Connect with me
 
 - 📧 Email: napha4657@gmail.com
+- 💼 LinkedIn: *(add your link here)*
