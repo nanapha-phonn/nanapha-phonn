@@ -19,11 +19,11 @@
 ## 👤 About me
 
 - 🎓 Undergraduate student in **Mechanical Engineering**
-- 🔭 Currently building a **robotic arm gripper** — designing, prototyping, and testing
-- 🤖 Learning **AI / ML for robotics** — applying computer vision and deep learning to real hardware
+- 🔭 Currently building a **robotic arm gripper**: designing, prototyping, and testing
+- 🤖 Learning **AI / ML for robotics**: applying computer vision and deep learning to real hardware
 - 📐 Improving in **CAD design & simulation** for mechanical components
 - 🧪 Building hands-on **robotics projects** that bridge software and hardware
-- 💡 Curious by nature — loves researching across engineering, physics, and emerging tech
+- 💡 Curious by nature: loves researching across engineering, physics, and emerging tech
 
 ---
 
