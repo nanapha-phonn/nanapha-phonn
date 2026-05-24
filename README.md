@@ -77,11 +77,6 @@ Git / Linux         ████████████░░░░░░░░
 
 ## 📊 GitHub stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nanapha-phonn&show_icons=true&locale=en&layout=compact" alt="nanapha-phonn" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nanapha-phonn&show_icons=true&locale=en" alt="nanapha-phonn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nanapha-phonn&" alt="nanapha-phonn" /></p>
 
