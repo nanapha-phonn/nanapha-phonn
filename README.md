@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTFrbjh3dTdpYm5xaWJiM2ttOWg2ZTV1azZ5dWxrbndwazV3cWc0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d9QiBcfzg64Io/giphy.gif" alt="Robotics GIF" width="400" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=nanapha-phonn&label=Profile%20views&color=0e75b6&style=flat" alt="nanapha-phonn" />
 </p>
 
