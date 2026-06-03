@@ -5,7 +5,12 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Mechanical+Engineering+undergraduate;Robotics+%26+automation+enthusiast;AI+%2F+ML+learner+for+robotics;CAD+%26+simulation+explorer;Curious+researcher+at+heart" alt="Typing SVG" />
   </a>
 </p>
-
+<!-- PORTFOLIO LINK BADGE -->
+<p align="center">
+  <a href="https://nanapha-phonn.github.io/mechanical-portfolio/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-Mechanical%20%26%20Robotics-0e75b6?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTFrbjh3dTdpYm5xaWJiM2ttOWg2ZTV1azZ5dWxrbndwazV3cWc0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d9QiBcfzg64Io/giphy.gif" alt="Robotics GIF" width="400" />
 </p>
@@ -89,4 +94,5 @@ Git / Linux         ████████████░░░░░░░░
 ## 📬 Connect with me
 
 - 📧 Email: napha4657@gmail.com
-- 💼 LinkedIn: *(add your link here)*
+- 💼 LinkedIn: Phon Napha
+- 💬 Instgram: Phon Napha
